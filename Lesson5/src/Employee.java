@@ -20,7 +20,6 @@ public class Employee {
     }
 
     public void getEmployeeInfo (){
-        //System.out.println("Hi. Current employee's info is following: ");
         System.out.printf("First name is %s. ", this.empFirstName);
         System.out.printf("Last name is %s. ", this.empLastName);
         System.out.printf("His appoitment is %s. ", this.empAppoitment);
