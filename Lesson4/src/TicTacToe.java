@@ -67,7 +67,6 @@ public class TicTacToe {
         }
     }
 
-    //TODO Проверить все варианты победы
     static boolean checkWin(char[][] field, int fieldSize, char sign) {
         int win1;
         int win2;
